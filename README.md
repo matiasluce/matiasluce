@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding">
-    <h1 align="center">Hello 👋, I'm Matías Lucero</h1>
+    <h1 align="center">Hello 👋 I'm Matías Lucero</h1>
     <h3 align="center">A passionate web fullstack developer from Argentina. Coding is my life so I'm constantly learning new things to improve my skills.</h3>
 
 </div>
