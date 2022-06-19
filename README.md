@@ -38,5 +38,6 @@
 
 ### 📊 My Stats:
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasluce&layout=compact)](https://github.com/matiasluce/github-readme-stats)
-
+</div>
